@@ -13,7 +13,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/about-1.jpg
+    image: images/Ottawa-min-73664bab.jpeg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
