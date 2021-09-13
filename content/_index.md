@@ -5,7 +5,7 @@ sections:
     title: This Is A Big Hero Headline
     subtitle: Optional hero section subtitle
     content: |
-      testursus id molestie vel.
+      test
     actions:
       - label: Try Free
         url: /pricing
